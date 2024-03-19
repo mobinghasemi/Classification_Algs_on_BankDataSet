@@ -1,2 +1,2 @@
-# ML_Algs_on_LoansDataSet
-Implementing Complete Machine Learning Algorithms on Loans Dataset
+# ML_Algs_on_BankDataSet
+Implementing Complete Machine Learning Algorithms on Bank Dataset
