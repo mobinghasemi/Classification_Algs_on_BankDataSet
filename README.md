@@ -1,2 +1,2 @@
 # Classification_Algs_on_BankDataSet
-Implementing Complete Classification Algorithms on Bank Dataset
+Implementing Complete Classification Algorithms on Bank DataSet
